@@ -1,0 +1,6 @@
+.{
+    .name = "billing_calendar_generator",
+    .version = "1.0.0",
+    .dependencies = .{},
+    .paths = .{""},
+}
